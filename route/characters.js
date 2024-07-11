@@ -2,7 +2,6 @@
 import {Router} from "express"
 export const router = Router()// invoco el enrutador de express
 import {Controller} from "../controller/characters.js";// importo archivo controller 
-// import{upload} from"../multer.js";
 
 // Rutas CRUD
 
